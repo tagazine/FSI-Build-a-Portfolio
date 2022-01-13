@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(130, 130, 130);
+}
+h1   {
+    text-align: center;
+    font-family: "Garamond";
+    font-weight: bold;
+}
+h3   {
+    border-style: groove;
+    border-color:rgb(216, 212, 191);
+    border-radius: 10pt;
+}
+img  {
+    float: right;
+    border-style: inset;
+    border-color:rgb(216, 212, 191);
+    width: 400px;
+    height: 400px;
+}
+p    {
+    font-family:"Verdana";
+}
