@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(150, 130, 130);
+    background-color: rgb(130, 130, 130);
 }
 h1   {
     text-align: center;
@@ -8,12 +8,13 @@ h1   {
 }
 h3   {
     border-style: groove;
-    border-color:thistle;
+    border-color:rgb(216, 212, 191);
+    border-radius: 10pt;
 }
 img  {
     float: right;
     border-style: inset;
-    border-color:thistle;
+    border-color:rgb(216, 212, 191);
     width: 400px;
     height: 400px;
 }
